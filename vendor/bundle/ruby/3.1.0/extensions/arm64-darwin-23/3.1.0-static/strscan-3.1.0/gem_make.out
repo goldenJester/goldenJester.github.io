@@ -1,0 +1,17 @@
+current directory: /Users/arman/Desktop/hydejack-starter-kit/vendor/bundle/ruby/3.1.0/gems/strscan-3.1.0/ext/strscan
+/Users/arman/.rubies/ruby-3.1.3/bin/ruby -I /Users/arman/.rubies/ruby-3.1.3/lib/ruby/3.1.0 extconf.rb
+checking for onig_region_memsize() in ruby.h... yes
+checking for rb_reg_onig_match() in ruby.h... no
+creating Makefile
+
+current directory: /Users/arman/Desktop/hydejack-starter-kit/vendor/bundle/ruby/3.1.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240829-5808-5ykqln sitelibdir\=./.gem.20240829-5808-5ykqln clean
+
+current directory: /Users/arman/Desktop/hydejack-starter-kit/vendor/bundle/ruby/3.1.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240829-5808-5ykqln sitelibdir\=./.gem.20240829-5808-5ykqln
+compiling strscan.c
+linking shared-object strscan.bundle
+
+current directory: /Users/arman/Desktop/hydejack-starter-kit/vendor/bundle/ruby/3.1.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240829-5808-5ykqln sitelibdir\=./.gem.20240829-5808-5ykqln install
+/usr/bin/install -c -m 0755 strscan.bundle ./.gem.20240829-5808-5ykqln

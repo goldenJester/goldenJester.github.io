@@ -1,0 +1,16 @@
+current directory: /Users/arman/Desktop/hydejack-starter-kit/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/Users/arman/.rubies/ruby-3.1.3/bin/ruby -I /Users/arman/.rubies/ruby-3.1.3/lib/ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /Users/arman/Desktop/hydejack-starter-kit/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20240829-5808-ljhk6i sitelibdir\=./.gem.20240829-5808-ljhk6i clean
+
+current directory: /Users/arman/Desktop/hydejack-starter-kit/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20240829-5808-ljhk6i sitelibdir\=./.gem.20240829-5808-ljhk6i
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+
+current directory: /Users/arman/Desktop/hydejack-starter-kit/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20240829-5808-ljhk6i sitelibdir\=./.gem.20240829-5808-ljhk6i install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20240829-5808-ljhk6i
